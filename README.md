@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amritsingh37
 - 👀 I’m Software Engineer..
-- 🌱 Skills - Java, DSA, FullStack Developer
+- 🌱 Skills - Java, DSA, SQL, FullStack Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - through
 -  linked in - https://www.linkedin.com/in/amrit-singh-537765248/
